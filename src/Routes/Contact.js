@@ -3,7 +3,7 @@ export default function Contact(props){
     return(
         <div >
            
-        <div className={`flex flex-col items-center h-fit justify-center  space-y-6 `}>
+        <div className={`flex flex-col w-screen items-center h-fit justify-center  space-y-6 `}>
            
             <div className="bg-hero w-fit">
             
